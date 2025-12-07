@@ -7,6 +7,7 @@
 # Antiretroviral Therapeutic (ART) Compounds
 
 The table below lists selected antiretroviral drugs with brand names, mechanism/target, and SMILES/sequence where available.
+modified from https://hivinfo.nih.gov/understanding-hiv/fact-sheets/fda-approved-hiv-medicines
 
 | Generic Name | Brand Name | Mechanism | Target | SMILES / Sequence |
 |---|---|---|---|---|
