@@ -1,3 +1,9 @@
+ This is a repository for downloading files involved with ART. This is for those who are not very good at computers and want the strucutres associated with the theraputics. below is a tabulated form of the available strucutres, with SMILES strucutre. if you are using this for publications, please cite one of the following:
+ 
+ (i)  "Tardiota, N., Jaberolansar, N., Lackenby, J.A. et al. HTLV-1 reverse transcriptase homology model provides structural basis for sensitivity to existing nucleoside/nucleotide reverse transcriptase inhibitors. Virol J 21, 14 (2024). https://doi.org/10.1186/s12985-024-02288-z"
+ 
+(ii) "TBA"
+
 # Antiretroviral Therapeutic (ART) Compounds
 
 The table below lists selected antiretroviral drugs with brand names, mechanism/target, and SMILES/sequence where available.
@@ -29,7 +35,4 @@ The table below lists selected antiretroviral drugs with brand names, mechanism/
 | Indinavir (IDV) | Crixivan | Active site | Protease | `CC(C)(C)NC(=O)[C@@H]1CN(CCN1C[C@H](C[C@@H](Cc2ccccc2)C(=O)N[C@H]3c4ccccc4C[C@H]3O)O)Cc5cccnc5
 
 
-This is a repository for downloading files involved with ART. This is for those who are not very good at computers and want the strucutres associated with the theraputics. below is a tabulated form of the available strucutres, with SMILES strucutre.
-if you are using this for publications, please cite one of the following:
-(i) ##"Tardiota, N., Jaberolansar, N., Lackenby, J.A. et al. HTLV-1 reverse transcriptase homology model provides structural basis for sensitivity to existing nucleoside/nucleotide reverse transcriptase inhibitors. Virol J 21, 14 (2024). https://doi.org/10.1186/s12985-024-02288-z"##
-(ii) "TBA"
+
