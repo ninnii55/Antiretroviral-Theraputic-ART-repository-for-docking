@@ -1,0 +1,131 @@
+REMARK  Name = Darunavir_DRV.pdb
+REMARK  16 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: S1_2  and  C1_4
+REMARK    2  A    between atoms: S1_2  and  N2_11
+REMARK    3  A    between atoms: C4_7  and  N1_8
+REMARK    4  A    between atoms: N2_11  and  C7_12
+REMARK    5  A    between atoms: N2_11  and  C11_16
+REMARK    6  A    between atoms: C7_12  and  C8_13
+REMARK    7  A    between atoms: C8_13  and  C9_14
+REMARK    8  A    between atoms: C8_13  and  C10_15
+REMARK    9  A    between atoms: C11_16  and  C12_17
+REMARK   10  A    between atoms: C12_17  and  O3_19
+REMARK   11  A    between atoms: C12_17  and  C13_20
+REMARK   12  A    between atoms: C13_20  and  N3_22
+REMARK   13  A    between atoms: C13_20  and  C21_37
+REMARK   14  A    between atoms: C14_23  and  O5_25
+REMARK   15  A    between atoms: O5_25  and  C15_26
+REMARK   16  A    between atoms: C21_37  and  C22_38
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C13 DVR     1       0.060   1.201   0.044  0.00  0.00    +0.057 C 
+ATOM      2  H2  DVR     1       0.104   1.259   1.131  0.00  0.00    +0.053 HD
+ENDROOT
+BRANCH   1   3
+ATOM      3  N3  DVR     1       1.166   0.375  -0.446  0.00  0.00    -0.275 N 
+ATOM      4  C14 DVR     1       2.358   0.403   0.182  0.00  0.00    +0.401 C 
+ATOM      5  O4  DVR     1       2.515   1.113   1.156  0.00  0.00    -0.226 OA
+ATOM      6  H24 DVR     1       1.041  -0.192  -1.223  0.00  0.00    +0.152 HD
+BRANCH   4   7
+ATOM      7  O5  DVR     1       3.374  -0.357  -0.268  0.00  0.00    -0.444 OA
+BRANCH   7   8
+ATOM      8  C15 DVR     1       4.658  -0.327   0.409  0.00  0.00    +0.135 C 
+ATOM      9  H3  DVR     1       4.820   0.646   0.873  0.00  0.00    +0.076 HD
+ATOM     10  C16 DVR     1       4.733  -1.444   1.465  0.00  0.00    +0.088 C 
+ATOM     11  O6  DVR     1       5.762  -2.355   1.054  0.00  0.00    -0.347 OA
+ATOM     12  C17 DVR     1       6.695  -1.629   0.232  0.00  0.00    +0.166 C 
+ATOM     13  H4  DVR     1       7.457  -1.115   0.818  0.00  0.00    +0.091 HD
+ATOM     14  O7  DVR     1       7.258  -2.530  -0.732  0.00  0.00    -0.351 OA
+ATOM     15  C18 DVR     1       6.442  -2.577  -1.907  0.00  0.00    +0.051 C 
+ATOM     16  C19 DVR     1       5.260  -1.609  -1.694  0.00  0.00    -0.018 C 
+ATOM     17  C20 DVR     1       5.796  -0.644  -0.583  0.00  0.00    +0.051 C 
+ATOM     18  H5  DVR     1       6.318   0.230  -0.972  0.00  0.00    +0.039 HD
+ATOM     19  H25 DVR     1       4.983  -1.018   2.437  0.00  0.00    +0.060 HD
+ATOM     20  H26 DVR     1       3.778  -1.965   1.522  0.00  0.00    +0.060 HD
+ATOM     21  H27 DVR     1       7.024  -2.266  -2.774  0.00  0.00    +0.056 HD
+ATOM     22  H28 DVR     1       6.068  -3.590  -2.056  0.00  0.00    +0.056 HD
+ATOM     23  H29 DVR     1       5.042  -1.058  -2.609  0.00  0.00    +0.029 HD
+ATOM     24  H30 DVR     1       4.378  -2.146  -1.346  0.00  0.00    +0.029 HD
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+ENDBRANCH   1   3
+BRANCH   1  25
+ATOM     25  C21 DVR     1       0.174   2.608  -0.547  0.00  0.00    -0.007 C 
+ATOM     26  H31 DVR     1       0.219   2.543  -1.634  0.00  0.00    +0.033 HD
+ATOM     27  H32 DVR     1      -0.696   3.197  -0.254  0.00  0.00    +0.033 HD
+BRANCH  25  28
+ATOM     28  C22 DVR     1       1.425   3.270  -0.030  0.00  0.00    -0.046 A 
+ATOM     29  C23 DVR     1       2.615   3.134  -0.722  0.00  0.00    -0.059 A 
+ATOM     30  C24 DVR     1       3.763   3.741  -0.248  0.00  0.00    -0.062 A 
+ATOM     31  C25 DVR     1       3.721   4.485   0.917  0.00  0.00    -0.062 A 
+ATOM     32  C26 DVR     1       2.532   4.621   1.607  0.00  0.00    -0.062 A 
+ATOM     33  C27 DVR     1       1.383   4.018   1.131  0.00  0.00    -0.059 A 
+ATOM     34  H33 DVR     1       2.647   2.553  -1.632  0.00  0.00    +0.062 HD
+ATOM     35  H34 DVR     1       4.692   3.635  -0.788  0.00  0.00    +0.062 HD
+ATOM     36  H35 DVR     1       4.618   4.959   1.287  0.00  0.00    +0.062 HD
+ATOM     37  H36 DVR     1       2.499   5.202   2.518  0.00  0.00    +0.062 HD
+ATOM     38  H37 DVR     1       0.453   4.125   1.671  0.00  0.00    +0.062 HD
+ENDBRANCH  25  28
+ENDBRANCH   1  25
+BRANCH   1  39
+ATOM     39  C12 DVR     1      -1.270   0.576  -0.380  0.00  0.00    +0.088 C 
+ATOM     40  H1  DVR     1      -1.313  -0.457  -0.034  0.00  0.00    +0.063 HD
+BRANCH  39  41
+ATOM     41  C11 DVR     1      -2.425   1.368   0.236  0.00  0.00    +0.048 C 
+ATOM     42  H21 DVR     1      -2.436   2.377  -0.178  0.00  0.00    +0.047 HD
+ATOM     43  H22 DVR     1      -2.295   1.421   1.317  0.00  0.00    +0.047 HD
+BRANCH  41  44
+ATOM     44  N2  DVR     1      -3.693   0.702  -0.071  0.00  0.00    -0.174 NA
+BRANCH  44  46
+ATOM     45  O1  DVR     1      -5.749  -0.383   0.727  0.00  0.00    -0.153 OA
+ATOM     46  S1  DVR     1      -4.358  -0.354   1.018  0.00  0.00    +0.061 S 
+ATOM     47  O2  DVR     1      -3.788  -0.021   2.276  0.00  0.00    -0.153 OA
+BRANCH  46  48
+ATOM     48  C1  DVR     1      -3.754  -1.963   0.628  0.00  0.00    +0.106 A 
+ATOM     49  C2  DVR     1      -2.587  -2.421   1.211  0.00  0.00    -0.034 A 
+ATOM     50  C3  DVR     1      -2.111  -3.681   0.908  0.00  0.00    -0.039 A 
+ATOM     51  C4  DVR     1      -2.806  -4.489   0.017  0.00  0.00    +0.025 A 
+ATOM     52  C5  DVR     1      -3.978  -4.026  -0.567  0.00  0.00    -0.039 A 
+ATOM     53  C6  DVR     1      -4.452  -2.766  -0.255  0.00  0.00    -0.034 A 
+ATOM     54  H6  DVR     1      -2.047  -1.792   1.903  0.00  0.00    +0.064 HD
+ATOM     55  H7  DVR     1      -1.199  -4.038   1.363  0.00  0.00    +0.064 HD
+ATOM     56  H10 DVR     1      -4.521  -4.651  -1.260  0.00  0.00    +0.064 HD
+ATOM     57  H11 DVR     1      -5.363  -2.406  -0.708  0.00  0.00    +0.064 HD
+BRANCH  51  58
+ATOM     58  N1  DVR     1      -2.327  -5.764  -0.292  0.00  0.00    -0.358 N 
+ATOM     59  H8  DVR     1      -1.508  -6.087   0.116  0.00  0.00    +0.142 HD
+ATOM     60  H9  DVR     1      -2.813  -6.328  -0.914  0.00  0.00    +0.142 HD
+ENDBRANCH  51  58
+ENDBRANCH  46  48
+ENDBRANCH  44  46
+BRANCH  44  61
+ATOM     61  C7  DVR     1      -4.373   0.969  -1.341  0.00  0.00    +0.023 C 
+ATOM     62  H12 DVR     1      -3.662   0.870  -2.161  0.00  0.00    +0.045 HD
+ATOM     63  H13 DVR     1      -5.185   0.254  -1.476  0.00  0.00    +0.045 HD
+BRANCH  61  64
+ATOM     64  C8  DVR     1      -4.941   2.389  -1.327  0.00  0.00    -0.032 C 
+ATOM     65  H14 DVR     1      -4.139   3.099  -1.124  0.00  0.00    +0.031 HD
+BRANCH  64  66
+ATOM     66  C9  DVR     1      -5.567   2.702  -2.687  0.00  0.00    -0.061 C 
+ATOM     67  H15 DVR     1      -6.369   1.992  -2.889  0.00  0.00    +0.023 HD
+ATOM     68  H16 DVR     1      -5.972   3.714  -2.677  0.00  0.00    +0.023 HD
+ATOM     69  H17 DVR     1      -4.807   2.622  -3.464  0.00  0.00    +0.023 HD
+ENDBRANCH  64  66
+BRANCH  64  70
+ATOM     70  C10 DVR     1      -6.008   2.501  -0.236  0.00  0.00    -0.061 C 
+ATOM     71  H18 DVR     1      -6.832   1.824  -0.463  0.00  0.00    +0.023 HD
+ATOM     72  H19 DVR     1      -5.572   2.234   0.727  0.00  0.00    +0.023 HD
+ATOM     73  H20 DVR     1      -6.380   3.525  -0.195  0.00  0.00    +0.023 HD
+ENDBRANCH  64  70
+ENDBRANCH  61  64
+ENDBRANCH  44  61
+ENDBRANCH  41  44
+ENDBRANCH  39  41
+BRANCH  39  74
+ATOM     74  O3  DVR     1      -1.378   0.606  -1.805  0.00  0.00    -0.389 OA
+ATOM     75  H23 DVR     1      -1.336   1.536  -2.068  0.00  0.00    +0.210 HD
+ENDBRANCH  39  74
+ENDBRANCH   1  39
+TORSDOF 16

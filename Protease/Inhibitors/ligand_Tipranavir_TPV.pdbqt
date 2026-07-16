@@ -1,0 +1,128 @@
+REMARK  Name = Tipranavir_TPV.pdb
+REMARK  15 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C2_2  and  C3_3
+REMARK    3  A    between atoms: C3_3  and  C4_4
+REMARK    4  A    between atoms: C4_4  and  C24_36
+REMARK    5  A    between atoms: C6_6  and  O1_7
+REMARK    6  A    between atoms: C7_8  and  C9_12
+REMARK    7  A    between atoms: C9_12  and  C10_14
+REMARK    8  A    between atoms: C9_12  and  C12_16
+REMARK    9  A    between atoms: C10_14  and  C11_15
+REMARK   10  A    between atoms: C16_20  and  N1_21
+REMARK   11  A    between atoms: N1_21  and  S1_22
+REMARK   12  A    between atoms: S1_22  and  C17_25
+REMARK   13  A    between atoms: C20_28  and  C22_31
+REMARK   14  A    between atoms: C24_36  and  C25_37
+REMARK   15  A    between atoms: C25_37  and  C26_38
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C4  TPV     1       4.844   1.353   0.102  0.00  0.00    +0.121 C 
+ATOM      2  C5  TPV     1       4.069   2.105   1.190  0.00  0.00    +0.045 C 
+ATOM      3  C6  TPV     1       2.728   1.426   1.360  0.00  0.00    +0.108 C 
+ATOM      4  C7  TPV     1       2.229   0.739   0.311  0.00  0.00    +0.081 C 
+ATOM      5  C8  TPV     1       2.947   0.675  -0.902  0.00  0.00    +0.339 C 
+ATOM      6  O2  TPV     1       2.515  -0.023  -1.799  0.00  0.00    -0.245 OA
+ATOM      7  O3  TPV     1       4.086   1.354  -1.105  0.00  0.00    -0.454 OA
+ATOM      8  H9  TPV     1       4.621   2.069   2.129  0.00  0.00    +0.038 HD
+ATOM      9  H10 TPV     1       3.921   3.142   0.888  0.00  0.00    +0.038 HD
+ENDROOT
+BRANCH   1  10
+ATOM     10  C3  TPV     1       6.187   2.046  -0.138  0.00  0.00    -0.013 C 
+ATOM     11  H7  TPV     1       6.699   1.566  -0.972  0.00  0.00    +0.030 HD
+ATOM     12  H8  TPV     1       6.801   1.970   0.759  0.00  0.00    +0.030 HD
+BRANCH  10  13
+ATOM     13  C2  TPV     1       5.948   3.521  -0.468  0.00  0.00    -0.052 C 
+ATOM     14  H5  TPV     1       5.436   4.002   0.365  0.00  0.00    +0.026 HD
+ATOM     15  H6  TPV     1       5.334   3.598  -1.366  0.00  0.00    +0.026 HD
+BRANCH  13  16
+ATOM     16  C1  TPV     1       7.291   4.214  -0.709  0.00  0.00    -0.065 C 
+ATOM     17  H2  TPV     1       7.121   5.264  -0.944  0.00  0.00    +0.023 HD
+ATOM     18  H3  TPV     1       7.905   4.137   0.188  0.00  0.00    +0.023 HD
+ATOM     19  H4  TPV     1       7.803   3.734  -1.542  0.00  0.00    +0.023 HD
+ENDBRANCH  13  16
+ENDBRANCH  10  13
+ENDBRANCH   1  10
+BRANCH   1  20
+ATOM     20  C24 TPV     1       5.087  -0.088   0.553  0.00  0.00    -0.008 C 
+ATOM     21  H25 TPV     1       5.659  -0.088   1.481  0.00  0.00    +0.031 HD
+ATOM     22  H26 TPV     1       4.130  -0.584   0.715  0.00  0.00    +0.031 HD
+BRANCH  20  23
+ATOM     23  C25 TPV     1       5.871  -0.835  -0.528  0.00  0.00    -0.024 C 
+ATOM     24  H27 TPV     1       5.326  -0.788  -1.471  0.00  0.00    +0.031 HD
+ATOM     25  H28 TPV     1       6.850  -0.372  -0.652  0.00  0.00    +0.031 HD
+BRANCH  23  26
+ATOM     26  C26 TPV     1       6.045  -2.275  -0.119  0.00  0.00    -0.047 A 
+ATOM     27  C27 TPV     1       5.172  -3.237  -0.590  0.00  0.00    -0.059 A 
+ATOM     28  C28 TPV     1       5.331  -4.558  -0.215  0.00  0.00    -0.062 A 
+ATOM     29  C29 TPV     1       6.363  -4.917   0.632  0.00  0.00    -0.062 A 
+ATOM     30  C30 TPV     1       7.237  -3.954   1.102  0.00  0.00    -0.062 A 
+ATOM     31  C31 TPV     1       7.080  -2.634   0.723  0.00  0.00    -0.059 A 
+ATOM     32  H29 TPV     1       4.365  -2.957  -1.252  0.00  0.00    +0.062 HD
+ATOM     33  H30 TPV     1       4.648  -5.310  -0.582  0.00  0.00    +0.062 HD
+ATOM     34  H31 TPV     1       6.487  -5.949   0.926  0.00  0.00    +0.062 HD
+ATOM     35  H32 TPV     1       8.043  -4.234   1.764  0.00  0.00    +0.062 HD
+ATOM     36  H33 TPV     1       7.763  -1.882   1.091  0.00  0.00    +0.062 HD
+ENDBRANCH  23  26
+ENDBRANCH  20  23
+ENDBRANCH   1  20
+BRANCH   3  37
+ATOM     37  O1  TPV     1       2.052   1.505   2.523  0.00  0.00    -0.510 OA
+ATOM     38  H11 TPV     1       1.237   0.998   2.644  0.00  0.00    +0.292 HD
+ENDBRANCH   3  37
+BRANCH   4  39
+ATOM     39  C9  TPV     1       0.901   0.037   0.436  0.00  0.00    +0.019 C 
+ATOM     40  H1  TPV     1       0.686  -0.149   1.488  0.00  0.00    +0.040 HD
+BRANCH  39  41
+ATOM     41  C12 TPV     1      -0.182   0.904  -0.153  0.00  0.00    -0.038 A 
+ATOM     42  C13 TPV     1      -0.155   1.226  -1.498  0.00  0.00    -0.058 A 
+ATOM     43  C14 TPV     1      -1.146   2.021  -2.042  0.00  0.00    -0.060 A 
+ATOM     44  C15 TPV     1      -2.169   2.496  -1.244  0.00  0.00    -0.039 A 
+ATOM     45  C16 TPV     1      -2.200   2.174   0.107  0.00  0.00    +0.048 A 
+ATOM     46  C23 TPV     1      -1.205   1.371   0.649  0.00  0.00    -0.036 A 
+ATOM     47  H17 TPV     1       0.644   0.855  -2.124  0.00  0.00    +0.062 HD
+ATOM     48  H18 TPV     1      -1.121   2.271  -3.093  0.00  0.00    +0.062 HD
+ATOM     49  H19 TPV     1      -2.943   3.117  -1.670  0.00  0.00    +0.064 HD
+ATOM     50  H24 TPV     1      -1.226   1.119   1.699  0.00  0.00    +0.064 HD
+BRANCH  45  51
+ATOM     51  N1  TPV     1      -3.232   2.653   0.917  0.00  0.00    -0.215 N 
+ATOM     52  H20 TPV     1      -3.030   3.027   1.789  0.00  0.00    +0.174 HD
+BRANCH  51  53
+ATOM     53  S1  TPV     1      -4.800   2.582   0.388  0.00  0.00    +0.090 S 
+ATOM     54  O4  TPV     1      -5.590   3.088   1.455  0.00  0.00    -0.148 OA
+ATOM     55  O5  TPV     1      -4.784   3.094  -0.938  0.00  0.00    -0.148 OA
+BRANCH  53  56
+ATOM     56  C17 TPV     1      -5.230   0.880   0.240  0.00  0.00    +0.197 A 
+ATOM     57  C18 TPV     1      -5.780   0.218   1.321  0.00  0.00    -0.016 A 
+ATOM     58  C19 TPV     1      -6.115  -1.122   1.193  0.00  0.00    -0.045 A 
+ATOM     59  C20 TPV     1      -5.883  -1.747  -0.022  0.00  0.00    +0.073 A 
+ATOM     60  C21 TPV     1      -5.329  -1.020  -1.059  0.00  0.00    +0.041 A 
+ATOM     61  N2  TPV     1      -5.027   0.254  -0.903  0.00  0.00    -0.235 NA
+ATOM     62  H21 TPV     1      -5.947   0.737   2.253  0.00  0.00    +0.065 HD
+ATOM     63  H22 TPV     1      -6.546  -1.665   2.021  0.00  0.00    +0.062 HD
+ATOM     64  H23 TPV     1      -5.145  -1.500  -2.009  0.00  0.00    +0.084 HD
+BRANCH  59  65
+ATOM     65  C22 TPV     1      -6.229  -3.202  -0.210  0.00  0.00    +0.419 C 
+ATOM     66  F1  TPV     1      -7.545  -3.311  -0.674  0.00  0.00    -0.166 F 
+ATOM     67  F2  TPV     1      -5.357  -3.772  -1.143  0.00  0.00    -0.166 F 
+ATOM     68  F3  TPV     1      -6.109  -3.872   1.012  0.00  0.00    -0.166 F 
+ENDBRANCH  59  65
+ENDBRANCH  53  56
+ENDBRANCH  51  53
+ENDBRANCH  45  51
+ENDBRANCH  39  41
+BRANCH  39  69
+ATOM     69  C10 TPV     1       0.955  -1.294  -0.316  0.00  0.00    -0.045 C 
+ATOM     70  H12 TPV     1       0.096  -1.904  -0.037  0.00  0.00    +0.027 HD
+ATOM     71  H13 TPV     1       0.933  -1.106  -1.390  0.00  0.00    +0.027 HD
+BRANCH  69  72
+ATOM     72  C11 TPV     1       2.245  -2.032   0.045  0.00  0.00    -0.064 C 
+ATOM     73  H14 TPV     1       2.315  -2.949  -0.540  0.00  0.00    +0.023 HD
+ATOM     74  H15 TPV     1       3.102  -1.395  -0.174  0.00  0.00    +0.023 HD
+ATOM     75  H16 TPV     1       2.237  -2.279   1.107  0.00  0.00    +0.023 HD
+ENDBRANCH  69  72
+ENDBRANCH  39  69
+ENDBRANCH   4  39
+TORSDOF 15
